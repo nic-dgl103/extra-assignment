@@ -7,7 +7,7 @@
 ![image](images/assignment-example.png)
 
 Tips: 
-- Keep your HTML as stremlined as possible.
+- Keep your HTML as streamlined as possible.
 - You can use the following absolute URLS for the images:
   - https://images.unsplash.com/photo-1599566150163-29194dcaad36
   - https://images.unsplash.com/photo-1580489944761-15a19d654956
