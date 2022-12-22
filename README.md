@@ -2,7 +2,7 @@
 
 ## Step 1: Instructions
 1. Clone this repository onto your local computer.
-2. In VS Code, create an NHTML file and an external stylesheet.
+2. In VS Code, create an HTML file and an external stylesheet.
 3. Recreate the page in the image below:
 ![image](images/assignment-example.png)
 
