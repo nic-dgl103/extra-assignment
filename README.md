@@ -2,12 +2,12 @@
 
 ## Step 1: Instructions
 1. Clone this repository onto your local computer.
-2. In VS Code, create an NHTML file and an external stylesheet.
+2. In VS Code, create an HTML file and an external stylesheet.
 3. Recreate the page in the image below:
 ![image](images/assignment-example.png)
 
 Tips: 
-- Keep your HTML as stremlined as possible.
+- Keep your HTML as streamlined as possible.
 - You can use the following absolute URLS for the images:
   - https://images.unsplash.com/photo-1599566150163-29194dcaad36
   - https://images.unsplash.com/photo-1580489944761-15a19d654956
@@ -30,11 +30,11 @@ Tips:
 ### Step 3: Submit your work
 Complete the following steps from the GitHub and GitHub Desktop Reference Guide:
 1. Commit your changes if you’ve made changes since the last commit.
-2. Push your changes to GitHub.
+2. Push your changes to your assignment repository in GitHub.
 3. Submit your assignment in BrightSpace:
 You can access the assignment submission tool by navigating to the week’s assignment in the Content Area, or by clicking on Assignments in the main menu. 
     * Click on the assignment submission link and follow the provided instructions. 
-    * Don’t forget to answer the questions and attach the screenshots of your final W3 HTML and CSS validation results.
+    * Don’t forget to answer the questions, include the path to your repository, and attach the screenshots of your final W3 HTML and CSS validation results.
 4. If you have been using a lab computer at the Comox Valley Campus to do your work with GitHub Desktop, remember to shutdown or restart the computer before you leave the room, so that other students won’t have access to your repositories.
 
 ## Deadlines
